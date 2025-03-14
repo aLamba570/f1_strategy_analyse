@@ -56,11 +56,7 @@ f1_strategy_analyse/
 ├── requirements.txt          # Project dependencies
 ├── README.md                # Project documentation
 │
-└── outputs/                  # Generated visualizations
-    ├── circuit_overtaking.png
-    ├── track_evolution.png
-    ├── driver_circuit_performance.png
-    └── circuit_difficulty.png
+
 ```
 
 ## 📊 Visualizations
